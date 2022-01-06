@@ -213,5 +213,9 @@ footer{
 
 }
 .last-end{
+    font-size: 40px;
     font-family: 'Brush Script MT', cursive;
+}
+#red-color{
+    color: red;
 }
