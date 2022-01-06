@@ -1,0 +1,217 @@
+body{
+    border: 0;
+    margin: 0;
+}
+.first{
+    font-size: 60px;
+}
+.h1-border{
+    border-left: 5px solid tomato;
+    padding-left: 5px;
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+.h1-tomato{
+    color: rgb(255, 217, 0);
+}
+.first-section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    border-top: 5px;
+    border-left: 5px;
+    
+}
+.first-photo img{
+    width: 400px;
+    border-left: 5px;
+}
+.first-btn{
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(235, 38, 3), rgb(189, 101, 0));
+    border-radius: 10px;  
+}
+.first-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.second-h1{
+    text-align: center;
+    font-size: 60px;
+    border-bottom: 5px;
+}
+.color-2{
+    color: rgb(255, 217, 0);
+}
+
+
+
+
+
+
+
+
+
+.div-3{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    border-radius: 30px;
+}
+.div31{
+    width: 350px;
+    border-radius: 30px;
+}
+.color-31{
+    background-color: #f8cb005b;
+}
+.color-32{
+    background-color: cornflowerblue;
+}
+.color-33{
+    background-color: darkgrey;
+}
+.div-h2{
+    padding: 10px;
+}
+.img1 img{
+    align-content: flex-start;
+    width: 40%; 
+    padding: 10px;
+}
+.center{
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+.img4 img{
+    width: 400px;
+    border-left: 5px;
+    padding-left: 5px;
+}
+.div-4{
+    display: flex;
+    width: 80%;
+    padding-left: 10%;
+}
+.half-width{
+    width: 60%;
+    padding-left: 2%;
+}
+.ending-h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#large{
+    font-size: 40px;
+}
+.h1-tomato{
+    color: rgb(255, 217, 0);
+}
+.first-section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    border-top: 10px;
+    border-left: 5px;
+    
+}
+.last-photo img{
+    width: 400px;
+    border-left: 5px;
+    padding-left: 5px;
+}
+.first-btn{
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(235, 38, 3), rgb(189, 101, 0));  
+}
+.first-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.second-h1{
+    text-align: center;
+    font-size: 60px;
+    border-bottom: 5px;
+}
+.color-2{
+    color: rgb(255, 217, 0);
+}
+#for-padding{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.ending img{
+        width: 450px;
+        border-left: 5px;
+        padding-left: 5px;
+}
+.end{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 30px;
+}
+.ending-h1{
+    text-align: left;
+}
+.ending-point-hope{
+    width: 350px;
+    padding-top: 10px;
+}
+.last-color{
+    color: rgb(189, 101, 0);
+}
+
+
+
+
+
+footer{
+    padding: 30px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+}
+#last-footer{
+    font-size: 50px;
+
+}
+.last-end{
+    font-family: 'Brush Script MT', cursive;
+}
